@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-08-12T07:13:39Z" name="Default suite" finished-at="2019-08-12T07:13:47Z" duration-ms="7811">
+    <groups>
+    </groups>
+    <test started-at="2019-08-12T07:13:39Z" name="Default test" finished-at="2019-08-12T07:13:47Z" duration-ms="7811">
+      <class name="com.test.GoogleTitleTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.GoogleTitleTest@609cd4d8]" started-at="2019-08-12T07:13:39Z" name="setUp" finished-at="2019-08-12T07:13:46Z" duration-ms="7124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="googletitleTest()[pri:0, instance:com.test.GoogleTitleTest@609cd4d8]" started-at="2019-08-12T07:13:46Z" name="googletitleTest" finished-at="2019-08-12T07:13:46Z" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googletitleTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.test.GoogleTitleTest@609cd4d8]" started-at="2019-08-12T07:13:46Z" name="teardown" finished-at="2019-08-12T07:13:47Z" duration-ms="638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.test.GoogleTitleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
